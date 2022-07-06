@@ -4,7 +4,7 @@ The purpose of this project was to create an analysis that looked at how the dat
 
 ## Results 
 The Urban city type had the highest volume of rides and drivers however, it had the lowest average fare per ride and average fare per driver. Despite the lower averages, the urban cities still generateing a signficant amount more revenue than both Rural and Suburban cities. Suburban city types came in second, followed by Rural city types, which had the lowest volume of rides, drivers, and total fares. However, the Rural city type had a significantly higher average fare per Driver, indicating that these rides were of a much longer distance. 
-![city_type_summary!](/Resources/city_type_summary.png)
+![city_type_summary!](/Resources/city_type_summary.PNG)
 
 ## Summary  
 ### Urban City Market
